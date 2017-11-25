@@ -1,0 +1,2 @@
+./posix.sh
+./omp.sh

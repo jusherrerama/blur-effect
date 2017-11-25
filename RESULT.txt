@@ -1,0 +1,735 @@
+Resultados ejecución de hilos con POSIX
+Desde 1 hilo hasta 16 - IMAGEN 720 - kernel 3
+
+           Hilo = 1
+
+           Hilo = 2
+
+           Hilo = 3
+
+           Hilo = 4
+
+           Hilo = 5
+
+           Hilo = 6
+
+           Hilo = 7
+
+           Hilo = 8
+
+           Hilo = 9
+
+           Hilo = 10
+
+           Hilo = 11
+
+           Hilo = 12
+
+           Hilo = 13
+
+           Hilo = 14
+
+           Hilo = 15
+
+           Hilo = 16
+
+
+Desde 1 hiloS hasta 16 - IMAGEN 720 - kernel 5
+
+           Hilo = 1
+
+           Hilo = 2
+
+           Hilo = 3
+
+           Hilo = 4
+
+           Hilo = 5
+
+           Hilo = 6
+
+           Hilo = 7
+
+           Hilo = 8
+
+           Hilo = 9
+
+           Hilo = 10
+
+           Hilo = 11
+
+           Hilo = 12
+
+           Hilo = 13
+
+           Hilo = 14
+
+           Hilo = 15
+
+           Hilo = 16
+
+
+Desde 1 hilo hasta 16 - IMAGEN 720 - kernel 7
+
+           Hilo = 1
+
+           Hilo = 2
+
+           Hilo = 3
+
+           Hilo = 4
+
+           Hilo = 5
+
+           Hilo = 6
+
+           Hilo = 7
+
+           Hilo = 8
+
+           Hilo = 9
+
+           Hilo = 10
+
+           Hilo = 11
+
+           Hilo = 12
+
+           Hilo = 13
+
+           Hilo = 14
+
+           Hilo = 15
+
+           Hilo = 16
+
+
+Desde 1 hilo hasta 16 - IMAGEN 720 - kernel 9
+
+           Hilo = 1
+
+           Hilo = 2
+
+           Hilo = 3
+
+           Hilo = 4
+
+           Hilo = 5
+
+           Hilo = 6
+
+           Hilo = 7
+
+           Hilo = 8
+
+           Hilo = 9
+
+           Hilo = 10
+
+           Hilo = 11
+
+           Hilo = 12
+
+           Hilo = 13
+
+           Hilo = 14
+
+           Hilo = 15
+
+           Hilo = 16
+
+
+Desde 1 hilo hasta 16 - IMAGEN 720 - kernel 11
+
+           Hilo = 1
+
+           Hilo = 2
+
+           Hilo = 3
+
+           Hilo = 4
+
+           Hilo = 5
+
+           Hilo = 6
+
+           Hilo = 7
+
+           Hilo = 8
+
+           Hilo = 9
+
+           Hilo = 10
+
+           Hilo = 11
+
+           Hilo = 12
+
+           Hilo = 13
+
+           Hilo = 14
+
+           Hilo = 15
+
+           Hilo = 16
+
+
+Desde 1 hilo hasta 16 - IMAGEN 720 - kernel 13
+
+           Hilo = 1
+
+           Hilo = 2
+
+           Hilo = 3
+
+           Hilo = 4
+
+           Hilo = 5
+
+           Hilo = 6
+
+           Hilo = 7
+
+           Hilo = 8
+
+           Hilo = 9
+
+           Hilo = 10
+
+           Hilo = 11
+
+           Hilo = 12
+
+           Hilo = 13
+
+           Hilo = 14
+
+           Hilo = 15
+
+           Hilo = 16
+
+
+Desde 1 hilo hasta 16 - IMAGEN 720 - kernel 15
+
+           Hilo = 1
+
+           Hilo = 2
+
+           Hilo = 3
+
+           Hilo = 4
+
+           Hilo = 5
+
+           Hilo = 6
+
+           Hilo = 7
+
+           Hilo = 8
+
+           Hilo = 9
+
+           Hilo = 10
+
+           Hilo = 11
+
+           Hilo = 12
+
+           Hilo = 13
+
+           Hilo = 14
+
+           Hilo = 15
+
+           Hilo = 16
+
+
+Desde 1 hilo hasta 16 - IMAGEN 1080 - kernel 3
+
+           Hilo = 1
+
+           Hilo = 2
+
+           Hilo = 3
+
+           Hilo = 4
+
+           Hilo = 5
+
+           Hilo = 6
+
+           Hilo = 7
+
+           Hilo = 8
+
+           Hilo = 9
+
+           Hilo = 10
+
+           Hilo = 11
+
+           Hilo = 12
+
+           Hilo = 13
+
+           Hilo = 14
+
+           Hilo = 15
+
+           Hilo = 16
+
+
+Desde 1 hilo hasta 16 - IMAGEN 1080 - kernel 5
+
+           Hilo = 1
+
+           Hilo = 2
+
+           Hilo = 3
+
+           Hilo = 4
+
+           Hilo = 5
+
+           Hilo = 6
+
+           Hilo = 7
+
+           Hilo = 8
+
+           Hilo = 9
+
+           Hilo = 10
+
+           Hilo = 11
+
+           Hilo = 12
+
+           Hilo = 13
+
+           Hilo = 14
+
+           Hilo = 15
+
+           Hilo = 16
+
+
+Desde 1 hilo hasta 16 - IMAGEN 1080 - kernel 7
+
+           Hilo = 1
+
+           Hilo = 2
+
+           Hilo = 3
+
+           Hilo = 4
+
+           Hilo = 5
+
+           Hilo = 6
+
+           Hilo = 7
+
+           Hilo = 8
+
+           Hilo = 9
+
+           Hilo = 10
+
+           Hilo = 11
+
+           Hilo = 12
+
+           Hilo = 13
+
+           Hilo = 14
+
+           Hilo = 15
+
+           Hilo = 16
+
+
+Desde 1 hilo hasta 16 - IMAGEN 1080 - kernel 9
+
+           Hilo = 1
+
+           Hilo = 2
+
+           Hilo = 3
+
+           Hilo = 4
+
+           Hilo = 5
+
+           Hilo = 6
+
+           Hilo = 7
+
+           Hilo = 8
+
+           Hilo = 9
+
+           Hilo = 10
+
+           Hilo = 11
+
+           Hilo = 12
+
+           Hilo = 13
+
+           Hilo = 14
+
+           Hilo = 15
+
+           Hilo = 16
+
+
+Desde 1 hilo hasta 16 - IMAGEN 1080 - kernel 11
+
+           Hilo = 1
+
+           Hilo = 2
+
+           Hilo = 3
+
+           Hilo = 4
+
+           Hilo = 5
+
+           Hilo = 6
+
+           Hilo = 7
+
+           Hilo = 8
+
+           Hilo = 9
+
+           Hilo = 10
+
+           Hilo = 11
+
+           Hilo = 12
+
+           Hilo = 13
+
+           Hilo = 14
+
+           Hilo = 15
+
+           Hilo = 16
+
+
+Desde 1 hilo hasta 16 - IMAGEN 1080 - kernel 13
+
+           Hilo = 1
+
+           Hilo = 2
+
+           Hilo = 3
+
+           Hilo = 4
+
+           Hilo = 5
+
+           Hilo = 6
+
+           Hilo = 7
+
+           Hilo = 8
+
+           Hilo = 9
+
+           Hilo = 10
+
+           Hilo = 11
+
+           Hilo = 12
+
+           Hilo = 13
+
+           Hilo = 14
+
+           Hilo = 15
+
+           Hilo = 16
+
+
+Desde 1 hilo hasta 16 - IMAGEN 1080 - kernel 15
+
+           Hilo = 1
+
+           Hilo = 2
+
+           Hilo = 3
+
+           Hilo = 4
+
+           Hilo = 5
+
+           Hilo = 6
+
+           Hilo = 7
+
+           Hilo = 8
+
+           Hilo = 9
+
+           Hilo = 10
+
+           Hilo = 11
+
+           Hilo = 12
+
+           Hilo = 13
+
+           Hilo = 14
+
+           Hilo = 15
+
+           Hilo = 16
+
+
+Desde 1 hilo hasta 16 - IMAGEN 4k - kernel 3
+
+           Hilo = 1
+
+           Hilo = 2
+
+           Hilo = 3
+
+           Hilo = 4
+
+           Hilo = 5
+
+           Hilo = 6
+
+           Hilo = 7
+
+           Hilo = 8
+
+           Hilo = 9
+
+           Hilo = 10
+
+           Hilo = 11
+
+           Hilo = 12
+
+           Hilo = 13
+
+           Hilo = 14
+
+           Hilo = 15
+
+           Hilo = 16
+
+
+Desde 1 hilo hasta 16 - IMAGEN 4k - kernel 5
+
+           Hilo = 1
+
+           Hilo = 2
+
+           Hilo = 3
+
+           Hilo = 4
+
+           Hilo = 5
+
+           Hilo = 6
+
+           Hilo = 7
+
+           Hilo = 8
+
+           Hilo = 9
+
+           Hilo = 10
+
+           Hilo = 11
+
+           Hilo = 12
+
+           Hilo = 13
+
+           Hilo = 14
+
+           Hilo = 15
+
+           Hilo = 16
+
+
+Desde 1 hilo hasta 16 - IMAGEN 4k - kernel 7
+
+           Hilo = 1
+
+           Hilo = 2
+
+           Hilo = 3
+
+           Hilo = 4
+
+           Hilo = 5
+
+           Hilo = 6
+
+           Hilo = 7
+
+           Hilo = 8
+
+           Hilo = 9
+
+           Hilo = 10
+
+           Hilo = 11
+
+           Hilo = 12
+
+           Hilo = 13
+
+           Hilo = 14
+
+           Hilo = 15
+
+           Hilo = 16
+
+
+Desde 1 hilo hasta 16 - IMAGEN 4k - kernel 9
+
+           Hilo = 1
+
+           Hilo = 2
+
+           Hilo = 3
+
+           Hilo = 4
+
+           Hilo = 5
+
+           Hilo = 6
+
+           Hilo = 7
+
+           Hilo = 8
+
+           Hilo = 9
+
+           Hilo = 10
+
+           Hilo = 11
+
+           Hilo = 12
+
+           Hilo = 13
+
+           Hilo = 14
+
+           Hilo = 15
+
+           Hilo = 16
+
+
+Desde 1 hilo hasta 16 - IMAGEN 4k - kernel 11
+
+           Hilo = 1
+
+           Hilo = 2
+
+           Hilo = 3
+
+           Hilo = 4
+
+           Hilo = 5
+
+           Hilo = 6
+
+           Hilo = 7
+
+           Hilo = 8
+
+           Hilo = 9
+
+           Hilo = 10
+
+           Hilo = 11
+
+           Hilo = 12
+
+           Hilo = 13
+
+           Hilo = 14
+
+           Hilo = 15
+
+           Hilo = 16
+
+
+Desde 1 hilo hasta 16 - IMAGEN 4k - kernel 13
+
+           Hilo = 1
+
+           Hilo = 2
+
+           Hilo = 3
+
+           Hilo = 4
+
+           Hilo = 5
+
+           Hilo = 6
+
+           Hilo = 7
+
+           Hilo = 8
+
+           Hilo = 9
+
+           Hilo = 10
+
+           Hilo = 11
+
+           Hilo = 12
+
+           Hilo = 13
+
+           Hilo = 14
+
+           Hilo = 15
+
+           Hilo = 16
+
+
+Desde 1 hilo hasta 16 - IMAGEN 4k - kernel 15
+
+           Hilo = 1
+
+           Hilo = 2
+
+           Hilo = 3
+
+           Hilo = 4
+
+           Hilo = 5
+
+           Hilo = 6
+
+           Hilo = 7
+
+           Hilo = 8
+
+           Hilo = 9
+
+           Hilo = 10
+
+           Hilo = 11
+
+           Hilo = 12
+
+           Hilo = 13
+
+           Hilo = 14
+
+           Hilo = 15
+
+           Hilo = 16
+
