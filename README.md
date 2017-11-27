@@ -13,8 +13,7 @@ blur-effect.c
 			1080.png: es la imagen png a tomar para aplicarle el efecto borroso.
 			1080k3.png:  es el nombre de la imagen resultado.
 			3 :  Es  tamaño del kernel a tomar (3,5,7,9,11,13,15)
-			5 :  Es el numero de hilos
-			2 :  Es la resolucion de la imagen ( 1 -> 4k , 2 -> 1080p , 3 -> 720p) //este campo se usa solo para guardar de forma adecuada los datos resultado
+			5 :  Es el numero de hilos 
 
 blur-effect-omp.c
 	Compilacion de blur-effect-omp.c : // programa principal , donde se encuentra el algoritmo de poner borrosa la imagen
@@ -80,13 +79,6 @@ Luego de ejecutar los 3 scripts  apareceran los 3 resultados en 3 carpetas difer
 	resultados: posix
 	romp: omp
 	rgpu: Cuda
-y dentro de la misma carpeta apareceran el resultados de las imagenes asi:
-
-	Posix: 720k3 ... 720k15
-	Omp: 720ompk3 ... 720ompk15
-	Cuda: 720gpuk3 ... 720gpuk15
-Y asi con todas las imagenes
-
 GRAFICAS 
 
 Para ver las graficas hay que instalar gnuplot y cargar cada uno de los archivos '.p' que se encuentran en cada una de las  carpetas  de los resultados ( load 'w_grafica_1080.p' ) dentro del entorno de gnuplot.
